@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["AD9833.py", "github:owainm713/AD9833-MicroPython-Module/AD9833.py"]
+  ],
+  "version": "1.0.0",
+  "deps": []
+}
